@@ -1,6 +1,6 @@
 .navbar{
   color: #27496d;
-  background-image: url('C:/Users/user/Desktop/THE-ARENA/background/head-svg.PNG');
+  background-image: url('background/head-svg.PNG');
   /* background-color: #00a8cc; */
 }
 .navbar-brand{
@@ -154,7 +154,7 @@ h1{
   font-size: 50px;
 }
 .conclusion-heading{
-  background-image: url('C:/Users/user/Desktop/THE ARENA/background/head-svg.PNG');
+  background-image: url('background/head-svg.PNG');
   padding-top: 30px;
   padding-bottom: 30px;
   border-radius: 20px;
@@ -169,7 +169,7 @@ h1{
   box-shadow: 0px 5px 10px 0px;
 }
 .footer-content{
-  background-image: url('C:/Users/user/Desktop/THE ARENA/background/head-svg.PNG');
+  background-image: url('background/head-svg.PNG');
   padding:30px;
   border-radius: 10px;
   margin: 10px;

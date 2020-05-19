@@ -1,0 +1,11 @@
+.back{
+  background-image: repeating-linear-gradient(#003399,#0066ff);
+  width: 1000px;
+  height: 1000px;
+}
+.top{
+  background-image: repeating-linear-gradient(#3333ff,#6666ff);
+  width: 1000px;
+  height: 1000px;
+}
+/* #ff3300,#ff6600 */

@@ -61,7 +61,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       document.querySelector("#pic1").classList.remove("invisibles");
 
       // hiding image timer
-        var counter = 10;
+        var counter = 30;
         setInterval(tiktik,1000);
         function tiktik(){
           counter=counter-1;
@@ -80,7 +80,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       document.querySelector("#pic2").classList.remove("invisibles");
 
       // hiding image timer
-        var counter = 10;
+        var counter = 30;
         setInterval(tiktik,1000);
         function tiktik(){
           counter=counter-1;
@@ -99,7 +99,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       document.querySelector("#pic3").classList.remove("invisibles");
 
             // hiding image timer
-              var counter = 10;
+              var counter = 30;
               setInterval(tiktik,1000);
               function tiktik(){
                 counter=counter-1;
@@ -118,7 +118,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       document.querySelector("#pic4").classList.remove("invisibles");
 
             // hiding image timer
-              var counter = 10;
+              var counter = 30;
               setInterval(tiktik,1000);
               function tiktik(){
                 counter=counter-1;
@@ -137,7 +137,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       document.querySelector("#pic5").classList.remove("invisibles");
 
             // hiding image timer
-              var counter = 10;
+              var counter = 30;
               setInterval(tiktik,1000);
               function tiktik(){
                 counter=counter-1;
@@ -156,7 +156,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       document.querySelector("#pic6").classList.remove("invisibles");
 
             // hiding image timer
-              var counter = 10;
+              var counter = 30;
               setInterval(tiktik,1000);
               function tiktik(){
                 counter=counter-1;
@@ -175,7 +175,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       document.querySelector("#pic7").classList.remove("invisibles");
 
             // hiding image timer
-              var counter = 10;
+              var counter = 30;
               setInterval(tiktik,1000);
               function tiktik(){
                 counter=counter-1;
@@ -194,7 +194,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       document.querySelector("#pic8").classList.remove("invisibles");
 
             // hiding image timer
-              var counter = 10;
+              var counter = 30;
               setInterval(tiktik,1000);
               function tiktik(){
                 counter=counter-1;
@@ -213,7 +213,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       document.querySelector("#pic9").classList.remove("invisibles");
 
             // hiding image timer
-              var counter = 10;
+              var counter = 30;
               setInterval(tiktik,1000);
               function tiktik(){
                 counter=counter-1;
@@ -232,7 +232,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       document.querySelector("#pic10").classList.remove("invisibles");
 
             // hiding image timer
-              var counter = 10;
+              var counter = 30;
               setInterval(tiktik,1000);
               function tiktik(){
                 counter=counter-1;
@@ -251,7 +251,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       document.querySelector("#pic11").classList.remove("invisibles");
 
             // hiding image timer
-              var counter = 10;
+              var counter = 30;
               setInterval(tiktik,1000);
               function tiktik(){
                 counter=counter-1;
@@ -270,7 +270,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       document.querySelector("#pic12").classList.remove("invisibles");
 
             // hiding image timer
-              var counter = 10;
+              var counter = 30;
               setInterval(tiktik,1000);
               function tiktik(){
                 counter=counter-1;

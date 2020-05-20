@@ -1,10 +1,10 @@
 .navbar{
   color: #27496d;
-  background-image: url('background/head-svg.PNG');
+  background-image: url('head-svg.PNG');
   /* background-color: #00a8cc; */
 }
 .footer{
-  background-image: url('background/head-svg.PNG');
+  background-image: url('head-svg.PNG');
   padding: 10px;
 }
 .navbar-brand{

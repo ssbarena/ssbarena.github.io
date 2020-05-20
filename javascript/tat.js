@@ -304,7 +304,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       time--;
       if(minutes==0 && seconds==0){
         clearInterval(x);
-        var audio = new Audio('C:/Users/user/Desktop/THE ARENA/sounds/crash.mp3');
+        var audio = new Audio('sounds/crash.mp3');
          audio.play();
          document.querySelector("#timeOver1").classList.remove("time-out-invisibles");
       }
@@ -329,7 +329,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       time--;
       if(minutes==0 && seconds==0){
         clearInterval(x);
-        var audio = new Audio('C:/Users/user/Desktop/THE ARENA/sounds/crash.mp3');
+        var audio = new Audio('sounds/crash.mp3');
          audio.play();
          document.querySelector("#timeOver2").classList.remove("time-out-invisibles");
       }
@@ -354,7 +354,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       time--;
       if(minutes==0 && seconds==0){
         clearInterval(x);
-        var audio = new Audio('C:/Users/user/Desktop/THE ARENA/sounds/crash.mp3');
+        var audio = new Audio('sounds/crash.mp3');
          audio.play();
          document.querySelector("#timeOver3").classList.remove("time-out-invisibles");
       }
@@ -379,7 +379,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       time--;
       if(minutes==0 && seconds==0){
         clearInterval(x);
-        var audio = new Audio('C:/Users/user/Desktop/THE ARENA/sounds/crash.mp3');
+        var audio = new Audio('sounds/crash.mp3');
          audio.play();
          document.querySelector("#timeOver4").classList.remove("time-out-invisibles");
       }
@@ -404,7 +404,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       time--;
       if(minutes==0 && seconds==0){
         clearInterval(x);
-        var audio = new Audio('C:/Users/user/Desktop/THE ARENA/sounds/crash.mp3');
+        var audio = new Audio('sounds/crash.mp3');
          audio.play();
          document.querySelector("#timeOver5").classList.remove("time-out-invisibles");
       }
@@ -430,7 +430,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       time--;
       if(minutes==0 && seconds==0){
         clearInterval(x);
-        var audio = new Audio('C:/Users/user/Desktop/THE ARENA/sounds/crash.mp3');
+        var audio = new Audio('sounds/crash.mp3');
          audio.play();
          document.querySelector("#timeOver6").classList.remove("time-out-invisibles");
       }
@@ -456,7 +456,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       time--;
       if(minutes==0 && seconds==0){
         clearInterval(x);
-        var audio = new Audio('C:/Users/user/Desktop/THE ARENA/sounds/crash.mp3');
+        var audio = new Audio('sounds/crash.mp3');
          audio.play();
          document.querySelector("#timeOver7").classList.remove("time-out-invisibles");
       }
@@ -482,7 +482,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       time--;
       if(minutes==0 && seconds==0){
         clearInterval(x);
-        var audio = new Audio('C:/Users/user/Desktop/THE ARENA/sounds/crash.mp3');
+        var audio = new Audio('sounds/crash.mp3');
          audio.play();
          document.querySelector("#timeOver8").classList.remove("time-out-invisibles");
       }
@@ -507,7 +507,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       time--;
       if(minutes==0 && seconds==0){
         clearInterval(x);
-        var audio = new Audio('C:/Users/user/Desktop/THE ARENA/sounds/crash.mp3');
+        var audio = new Audio('sounds/crash.mp3');
          audio.play();
          document.querySelector("#timeOver9").classList.remove("time-out-invisibles");
       }
@@ -532,7 +532,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       time--;
       if(minutes==0 && seconds==0){
         clearInterval(x);
-        var audio = new Audio('C:/Users/user/Desktop/THE ARENA/sounds/crash.mp3');
+        var audio = new Audio('sounds/crash.mp3');
          audio.play();
          document.querySelector("#timeOver10").classList.remove("time-out-invisibles");
       }
@@ -558,7 +558,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       time--;
       if(minutes==0 && seconds==0){
         clearInterval(x);
-        var audio = new Audio('C:/Users/user/Desktop/THE ARENA/sounds/crash.mp3');
+        var audio = new Audio('sounds/crash.mp3');
          audio.play();
          document.querySelector("#timeOver11").classList.remove("time-out-invisibles");
       }
@@ -583,7 +583,7 @@ document.querySelector("#timerBtn12").addEventListener("click",writingTimer12);
       time--;
       if(minutes==0 && seconds==0){
         clearInterval(x);
-        var audio = new Audio('C:/Users/user/Desktop/THE ARENA/sounds/crash.mp3');
+        var audio = new Audio('sounds/crash.mp3');
          audio.play();
          document.querySelector("#timeOver12").classList.remove("time-out-invisibles");
       }

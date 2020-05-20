@@ -60,7 +60,7 @@ function clock(){
     time--;
     if(minutes==0 && seconds==0){
       clearInterval(x);
-      var audio = new Audio('C:/Users/user/Desktop/THE ARENA/sounds/crash.mp3');
+      var audio = new Audio('sounds/crash.mp3');
        audio.play();
       document.querySelector(".timeOver").classList.remove("invisible");
 

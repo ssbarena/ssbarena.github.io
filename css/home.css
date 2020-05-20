@@ -1,7 +1,6 @@
 .navbar{
   color: #27496d;
-  background-image: url("background/head-svg.PNG");
-  /* background-color: #00a8cc; */
+  background-image: url('background/head-svg.PNG');
 }
 .navbar-brand{
   font-family: 'Orbitron', sans-serif;
